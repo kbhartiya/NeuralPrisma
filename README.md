@@ -16,6 +16,6 @@ Content Image.(left)-------Style Image(right)[1200 iterations]
 
 - Stylized Image[Result]
 
-![Result](https://github.com/kbhartiya/NeuralPrisma/blob/master/results/generated_image.jpg)
+![Result](https://github.com/kbhartiya/NeuralPrisma/blob/master/results/face.jpg)
 
 - More Results to come(Still Optimizing)
