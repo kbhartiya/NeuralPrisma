@@ -18,4 +18,10 @@ Content Image.(left)-------Style Image(right)[1200 iterations]
 
 ![Result](https://github.com/kbhartiya/NeuralPrisma/blob/master/results/face.jpg)
 
+The following were created by running the above program on each frame of video and then merging them.
+
+- Video
+
+<img src="https://github.com/kbhartiya/NeuralPrisma/blob/master/cat_video.mp4" width="100%">
 - More Results to come(Still Optimizing)
+
