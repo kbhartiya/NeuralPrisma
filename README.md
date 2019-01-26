@@ -22,6 +22,6 @@ The following were created by running the above program on each frame of video a
 
 - Video
 
-<img src="https://github.com/kbhartiya/NeuralPrisma/blob/master/cat_video.mp4" width="100%">
+<img src="https://github.com/kbhartiya/NeuralPrisma/blob/master/cat_video.gif" width="100%">
 - More Results to come(Still Optimizing)
 
