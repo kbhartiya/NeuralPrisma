@@ -21,7 +21,6 @@ Style Image(right)
 
 
 - Stylized Image[Result(1200 iterations)]
-
 ![Result](https://github.com/kbhartiya/NeuralPrisma/blob/master/results/face.jpg)
 
 The following were created by running the above program on each frame of video and then merging them.
