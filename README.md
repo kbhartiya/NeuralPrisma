@@ -2,19 +2,25 @@
 An implementation of Neural Style Transfer for producing images like Prisma app.
 
 ## Results
-Content Image.(left)-------Style Image(right)[700 iterations]
+- Content Image.(left)                  
 
-![Content image](https://github.com/kbhartiya/NeuralPrisma/blob/master/images/content.jpg) ![Style Image](https://github.com/kbhartiya/NeuralPrisma/blob/master/images/stylesample1.jpg)
+![Content image](https://github.com/kbhartiya/NeuralPrisma/blob/master/images/content.jpg) 
 
-- Stylized Image[Result]
+- Style Image(right)
+![Style Image](https://github.com/kbhartiya/NeuralPrisma/blob/master/images/stylesample1.jpg)
 
+- Stylized Image[Result(700 iterations)]
 ![Result](https://github.com/kbhartiya/NeuralPrisma/blob/master/results/generated_image.jpg)
 
-Content Image.(left)-------Style Image(right)[1200 iterations]
+Content Image.(left)
 
-![Content image](https://github.com/kbhartiya/NeuralPrisma/blob/master/images/kartik.jpg) ![Style Image](https://github.com/kbhartiya/NeuralPrisma/blob/master/images/stylesample6.jpg)
+![Content image](https://github.com/kbhartiya/NeuralPrisma/blob/master/images/kartik.jpg) 
 
-- Stylized Image[Result]
+Style Image(right)
+![Style Image](https://github.com/kbhartiya/NeuralPrisma/blob/master/images/stylesample6.jpg)
+
+
+- Stylized Image[Result(1200 iterations)]
 
 ![Result](https://github.com/kbhartiya/NeuralPrisma/blob/master/results/face.jpg)
 
