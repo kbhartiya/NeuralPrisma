@@ -26,14 +26,12 @@ Style Image(right)
 The following were created by running the above program on each frame of video and then merging them.
 
 - Video
-
-<img src="https://github.com/kbhartiya/NeuralPrisma/blob/master/cat_video.gif" width="100%">
+<img src="https://github.com/kbhartiya/NeuralPrisma/blob/master/cat_video.gif" width="50%">
 
 - Style
-
 ![Style Image](https://github.com/kbhartiya/NeuralPrisma/blob/master/images/stylesample7.jpg)
-- Result
 
-<img src="" width="100%">
+- Result
+<img src="" width="50%">
 - More Results to come(Still Optimizing)
 
